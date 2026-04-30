@@ -131,4 +131,4 @@ if submit:
 
 # -------- FOOTER --------
 st.markdown("---")
-st.caption("Built by Manusri & Harini | ML-Based E-Commerce Fraud Detection System 🚀")
+st.caption("Built by Manusri | ML-Based E-Commerce Fraud Detection System 🚀")
